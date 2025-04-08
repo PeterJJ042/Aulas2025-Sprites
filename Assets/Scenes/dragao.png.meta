@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 33aa517223f699f489be3a5f3f588719
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 769345219243372746
+    second: dragao_0
+  - first:
+      213: -8610916747945160666
+    second: dragao_1
+  - first:
+      213: -5179024317526664892
+    second: dragao_2
+  - first:
+      213: 8633075763581294590
+    second: dragao_3
+  - first:
+      213: -3781435301101355059
+    second: dragao_4
+  - first:
+      213: -8990202454823038487
+    second: dragao_5
+  - first:
+      213: 6725516315069379580
+    second: dragao_6
+  - first:
+      213: -8532486092175447530
+    second: dragao_7
+  - first:
+      213: 7024510651537337463
+    second: dragao_8
+  - first:
+      213: 3193782821475035631
+    second: dragao_9
+  - first:
+      213: 880502945533827898
+    second: dragao_10
+  - first:
+      213: -8105003820455622778
+    second: dragao_11
+  - first:
+      213: -7185884677011182918
+    second: dragao_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: d_cabeca
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 73
+        width: 211
+        height: 199
+      alignment: 9
+      pivot: {x: 0.7783587, y: 0.3037867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac075a696634daa00800000000000000
+      internalID: 769345219243372746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_tronco
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 97
+        width: 119
+        height: 175
+      alignment: 9
+      pivot: {x: 0.6599247, y: 0.21125305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620544027d0ef7880800000000000000
+      internalID: -8610916747945160666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_cauda
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 131
+        width: 110
+        height: 141
+      alignment: 9
+      pivot: {x: 0.11520302, y: 0.16024303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44996b6a2d86028b0800000000000000
+      internalID: -5179024317526664892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_ponta
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 166
+        width: 58
+        height: 105
+      alignment: 9
+      pivot: {x: 0.40948382, y: 0.08125465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef71c4fbaa8dec770800000000000000
+      internalID: 8633075763581294590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_pernaesquerda
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 14
+        width: 92
+        height: 117
+      alignment: 9
+      pivot: {x: 0.46790114, y: 0.69911623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf3bb8e0a4a58bc0800000000000000
+      internalID: -3781435301101355059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_atbracoesquerdo
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 70
+        width: 82
+        height: 49
+      alignment: 9
+      pivot: {x: 0.1638753, y: 0.39285824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e19d6ddf726c3380800000000000000
+      internalID: -8990202454823038487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_atbracodireito
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 120
+        width: 58
+        height: 45
+      alignment: 9
+      pivot: {x: 0.77154857, y: 0.58749866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3fdca8475d55d50800000000000000
+      internalID: 6725516315069379580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_maodireita
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 50
+        height: 41
+      alignment: 9
+      pivot: {x: 0.86093336, y: 0.251908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aebe03b15869980800000000000000
+      internalID: -8532486092175447530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_maoesquerda
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 42
+        width: 51
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5386025, y: 0.61643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ca4d958331c7160800000000000000
+      internalID: 7024510651537337463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_bracodireito
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 31
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6009601, y: 0.3203144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9a3c30e88925c20800000000000000
+      internalID: 3193782821475035631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_bracoesquerdo
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 25
+        height: 41
+      alignment: 9
+      pivot: {x: 0.52624875, y: 0.7721003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b9a3c83cc283c00800000000000000
+      internalID: 880502945533827898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_sombra
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 15
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6870f8aa7fd358f80800000000000000
+      internalID: -8105003820455622778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_pernadireta
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 4
+        width: 103
+        height: 92
+      alignment: 9
+      pivot: {x: 0.80263543, y: 0.6283954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba63dd65fb964c90800000000000000
+      internalID: -7185884677011182918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7c93a2b4e3ad20c4aa6e3aa8a8c2b3c7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      d_atbracodireito: 6725516315069379580
+      d_atbracoesquerdo: -8990202454823038487
+      d_bracodireito: 3193782821475035631
+      d_bracoesquerdo: 880502945533827898
+      d_cabeca: 769345219243372746
+      d_cauda: -5179024317526664892
+      d_maodireita: -8532486092175447530
+      d_maoesquerda: 7024510651537337463
+      d_pernadireta: -7185884677011182918
+      d_pernaesquerda: -3781435301101355059
+      d_ponta: 8633075763581294590
+      d_sombra: -8105003820455622778
+      d_tronco: -8610916747945160666
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
